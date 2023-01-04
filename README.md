@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## This program is an ECommerce back end server and database. The user can search the database, create database items, update items, and delete items. This project uses starter code from bootcamp. 
 
-Watch a demo video [here](https://drive.google.com/file/d/1xiTQoQowrUWfMDMPStm82CgnlNl6nqZ8/view?usp=sharing)
+Watch a demo video [here](https://drive.google.com/file/d/1k5FPZnqpPLWpmHPDnVVGjnAuYCnT6BWy/view?usp=sharing)
 
 ## Table of Contents:
 - [Installation](#installation)
