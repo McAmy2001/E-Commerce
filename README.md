@@ -1,4 +1,4 @@
-# Bootcamp Module 12: Object-Relational Mapping, Challenge: ECommerce-Back-End
+# ECommerce-Back-End
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## This program is an ECommerce back end server and database. The user can search the database, create database items, update items, and delete items. This project uses starter code from bootcamp. 
 
@@ -7,6 +7,7 @@ Watch a demo video [here](https://drive.google.com/file/d/1k5FPZnqpPLWpmHPDnVVGj
 ## Table of Contents:
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies](#technologies)
 - [License](#license)
 - [Contributing](#contributing)
 - [Testing](#tests)
@@ -22,6 +23,11 @@ Step one: From the command line enter into MySQL using the command `mysql -u roo
 ![Screenshot](./assets/Screen%20Shot%202022-07-27%20at%2010.10.08%20AM%20Small.jpeg)
 ![Screenshot](./assets/Screen%20Shot%202022-07-27%20at%2010.10.34%20AM%20Small.jpeg)
 
+## Technologies
+- Javascript
+- [Express](https://expressjs.com/)
+- [MySQL2](https://www.npmjs.com/package/mysql2)
+- [Sequelize](https://sequelize.org/)
 ## License 
 &copy; 2022 by Amy McCabe. 
 This project is licensed under the MIT license.
